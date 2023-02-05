@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhasiddique7
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full stack Web Development
+- 🌱 I’m currently learning Full stack Web Development and Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
