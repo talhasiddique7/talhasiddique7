@@ -8,7 +8,10 @@
 </h1>
 🧑‍💻 About Me :
 
-I am a Junior Full Stack Developer from Pakistan.
+I am a student of Computer Science.
+Language Expert:
+C++, python, and Assembly Language.
+Front-end Developer.
 
 
 🌐 Languages : English, Urdu, Punjabi
