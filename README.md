@@ -12,9 +12,10 @@ I am a student of Computer Science.
 
 Language Expert:
 
-C++, python, and Assembly Language.
+C++, python, C# , Dart(Flutter).
 
 Front-end Developer.
+Machine Learning
 
 
 🌐 Languages : English, Urdu, Punjabi
