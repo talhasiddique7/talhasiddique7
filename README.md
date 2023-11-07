@@ -16,7 +16,7 @@
 
 💬 Ask me about Python and Machine Learning 
 
-📫 How to reach me ts9740743@gmail.com 
+📫 How to reach me talhasiddique.developer@gmail.com 
 
 <h2>Connect with me</h2>
   
