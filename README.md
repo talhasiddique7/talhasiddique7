@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  🌟 Full-Stack Developer | MERN Expert | React Native Enthusiast | AI & ML
+  🌟 Backend Developer | MERN | React Native Enthusiast | AI & ML
 </p>
 
 ---
