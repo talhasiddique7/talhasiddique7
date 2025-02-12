@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  🌟 Backend Developer | MERN | React Native Enthusiast | AI & ML
+  🌟 Backend Developer | MERN | Langchain| AI & ML | Generative AI
 </p>
 
 ---
