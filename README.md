@@ -16,8 +16,7 @@
 ### 🧑‍💻 About Me :
 
 - 🌐 **Languages**: English, Urdu, Punjabi  
-- 👨‍💻 **All of my projects** are available at [My GitHub Profile](https://github.com/talhasiddique7)  
-- 💬 **Ask me about**: Python, Machine Learning, and Full-Stack Development (Web and Mobile)  
+- 💬 **Ask me about**: Python, Machine Learning, Artificial Intelligence, LangChain, LangGraph,Gen AI and Backend Development (Web and Mobile)  
 - 📫 **How to reach me**: [talhasiddique.developer@gmail.com](mailto:talhasiddique.developer@gmail.com)
 
 ---
