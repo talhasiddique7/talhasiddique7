@@ -30,7 +30,7 @@
 <img src='https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg' width="70" height="70"></a>
 
 <a href='mailto:talhasiddique.developer@gmail.com'>
-<img src='https://static-00.iconduck.com/assets.00/gmail-icon-2048x2048-73rnz1b9.png' width="70" height="70"></a>
+<img src='https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png' width="70" height="70"></a>
 
 <a href='https://leetcode.com/u/talhasiddique7/'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png' width="70" height="70"></a>
