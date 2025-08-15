@@ -121,6 +121,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studio" />
   <img width="12" />
+  <img width="12" />
+  <img src="https://windsurf.com/favicon.svg" height="40" alt="windsurf logo" title="Windsurf" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" height="40" alt="cursor logo" title="Cursor-ai" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" title="Anaconda" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="Jupyter Notebook" />
