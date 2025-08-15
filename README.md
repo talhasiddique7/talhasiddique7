@@ -36,10 +36,10 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png' width="70" height="70"></a>
 
 <a href='https://www.instagram.com/talha__siddique/profilecard/'>
-<img src='https://imgs.search.brave.com/GdxApKdGYNV_p3xFCRZ1Guw6t6N5g4GlSEywybKx-9Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9pbnN0YWdy/YW0taWNvbi01MTJ4/NTEyLTg1Y2t2eHpq/LnBuZw' width="70" height="70"></a>
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' width="70" height="70"></a>
 
 <a href='https://web.facebook.com/talha.talhasiddique.5'>
-<img src='https://imgs.search.brave.com/6SKwdhOsY-K2XV-Wdui5fvvdN153woKTv_iFEAMVc2k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9mYWNlYm9v/ay1pY29uLTUxMng1/MTItc2ViNTQyanUu/cG5n' width="70" height="70"></a>
+<img src='https://www.freeiconspng.com/uploads/facebook-png-icon-follow-us-facebook-1.png' width="70" height="70"></a>
 
 <a href='https://api.whatsapp.com/send?phone=923455861630'>
 <img src='https://imgs.search.brave.com/Iu45jx--QtoXb3xq4qlJ1BhrViuwvg00rWxmrVP1hjo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg3/OS5wbmc' width="70" height="70"></a>
