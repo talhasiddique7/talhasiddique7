@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">Web lang & frameworks</h3>
+<h3 align="left">Full Stack Development Framework & Tools</h3>
 
 ###
 
@@ -89,7 +89,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fast-api logo" title="fastapi"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" title="SQL"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="sql logo" title="Postgree sql" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="postman logo" title="postman sql" />
+
 </div>
 
 ###
@@ -144,6 +148,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40" alt="canva logo" title="Canva" />
+
+  
 </div>
 
 <h3 align="left">Productivity Tools </h3>
@@ -155,6 +163,9 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-notion-10516019-8630396.png" height="40" alt="notion logo" title="Notion" />
   <img width="12" />
   <img src="https://img.icons8.com/color/512/microsoft-onenote-2019.png" height="40" alt="onenote logo" title="OneNote" />
+   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Microsoft_To-Do_icon.png" height="40" alt="todo logo" title="microsoft todo" />
+   <img width="12" />
   <img width="12" />
   <img src="https://img.icons8.com/color/512/slack-new.png" height="40" alt="slack logo" title="Slack" />
   <img width="12" />
