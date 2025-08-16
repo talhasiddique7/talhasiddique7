@@ -57,15 +57,15 @@
 ###
 
 <div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
   <img width="12" />
 </div>
 
@@ -86,6 +86,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJS"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fast-api logo" title="fastapi"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" title="SQL"  />
 </div>
@@ -101,18 +103,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="40" alt="numpy logo" title="Numpy" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" title="Seaborn" />
-  <img width="8" />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" title="Scikit-learn" />
-  <img src="https://lastmile-ai.com/staging/4722/wp-content/uploads/2024/04/langchain_resized.png" height="40" alt="langchain logo" title="LangChain" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" height="40" alt="langchain logo" title="LangChain" />
+  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" height="40" alt="langgraph logo" title="LangGraph" />
+  <img width="12" />
+  <img src="https://mlflow.org/docs/2.0.0/_static/MLflow-logo-final-black.png" height="40" alt="mlflow logo" title="mlflow" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" alt="databricks logo" title="databricks" />
+   <img width="12" />
+  <img src="https://www.mongodb.com/community/forums/uploads/default/original/3X/9/c/9cbfd80c82d389fab3a268551033b9480cb62675.jpeg" height="40" alt="sagemaker logo" title="sagemaker" />
 
 </div>
 
 ###
 
-<h3 align="left"> Development Tools</h3>
+<h3 align="left">Development Tools</h3>
 
 ###
 
@@ -134,7 +146,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
 </div>
 
+<h3 align="left">Productivity Tools </h3>
 
+###
+
+<div align="center">
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-notion-10516019-8630396.png" height="40" alt="notion logo" title="Notion" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/microsoft-onenote-2019.png" height="40" alt="onenote logo" title="OneNote" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/slack-new.png" height="40" alt="slack logo" title="Slack" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/trello.png" height="40" alt="trello logo" title="Trello" />
+  <img width="12" />
+  <img src="https://cdn.prod.website-files.com/627c290f28f6cc6e7e7dc2fc/67e3637e67fdacf09aff99f3_6befc348-4f66-4e4e-9061-78f833445138.png" height="40" alt="clickup logo" title="clickup" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/google-calendar--v2.png" height="40" alt="google calendar logo" title="Google Calendar" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/microsoft-teams.png" height="40" alt="microsoft teams logo" title="Microsoft Teams" />
+  <img width="12" />
+</div>
 ---
 
 ### 🔥 GitHub Stats:
