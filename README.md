@@ -178,12 +178,11 @@
   <img src="https://img.icons8.com/color/512/microsoft-teams.png" height="40" alt="microsoft teams logo" title="Microsoft Teams" />
   <img width="12" />
 </div>
+
 ---
 
 ### 🔥 GitHub Stats:
 
-
----
 <p align="center">
   <!-- Total Commits and Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhasiddique7&theme=radical" alt="GitHub Streak Stats"/>
