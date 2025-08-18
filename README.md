@@ -1,27 +1,25 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Full-Stack+%26+Backend+Developer;Building+LLM-Powered+Products" alt="Typing animation" />
+</br>
+  <strong>Turning ideas into scalable, intelligent systems.</strong>
 </div>
-
-<h1 align="center">
-  Hey there! 👋 I'm Talha
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<p align="center">
-  🌟 AI Engineer | Langchain | Generative AI | Backend Developer
-</p>
-
+ 
 ---
 
-### 🧑‍💻 About Me :
+## 🙋🏻 About Me
 
-- 🌐 **Languages**: English, Urdu, Punjabi  
-- 💬 **Ask me about**: Python, Machine Learning, Artificial Intelligence, LangChain, LangGraph,Gen AI and Backend Development (Web and Mobile)  
-- 📫 **How to reach me**: [talhasiddique.developer@gmail.com](mailto:talhasiddique.developer@gmail.com)
-
+- 🌍 Based in Pakistan — collaborating globally.
+- 🔭 Currently crafting LLM-driven backends & agentic workflows (LangChain / LangGraph).
+- 🚀 Passionate about: Evaluations (RAG quality), Vector search optimization, MLOps pipelines.
+- 💬 Ask me about: Python · FastAPI · Generative AI · LangChain · LangGraph · RAG · Backend Architecture.
+- 🧪 Experimenting with: Structured output parsing, function-calling chains, scalable embeddings stores.
+- 🗣 Languages: English · Urdu · Punjabi
+- 📫 Reach me: talhasiddique.developer@gmail.com
 ---
 
-### 🌟 Connect With Me :
+## 🌟 Connect With Me :
   
 <a href='https://www.linkedin.com/in/talha-siddique-28961b279/'>
 <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width="70" height="70"></a>
@@ -52,7 +50,7 @@
 ---
 
 
-<h3 align="left">Coding Languages</h3>
+<h2 align="left">Coding Languages</h2>
 
 ###
 
@@ -71,7 +69,7 @@
 
 ###
 
-<h3 align="left">Full Stack Development Framework & Tools</h3>
+<h2 align="left">Full Stack Development Frameworks & Tools</h2>
 
 ###
 
@@ -93,12 +91,13 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="sql logo" title="Postgree sql" />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="postman logo" title="postman sql" />
-
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/docker.png" height="42" title="Docker" />
 </div>
 
 ###
 
-<h3 align="left">AI/ML/DL</h3>
+<h2 align="left">AI/ML/DL</h2>
 
 ###
 
@@ -128,7 +127,7 @@
 
 ###
 
-<h3 align="left">Development Tools</h3>
+<h2 align="left">Development Tools</h2>
 
 ###
 
@@ -154,7 +153,7 @@
   
 </div>
 
-<h3 align="left">Productivity Tools </h3>
+<h2 align="left">Productivity Tools </h2>
 
 ###
 
@@ -181,7 +180,7 @@
 
 ---
 
-### 🔥 GitHub Stats:
+## 🔥 GitHub Stats:
 
 <p align="center">
   <!-- Total Commits and Streak -->
