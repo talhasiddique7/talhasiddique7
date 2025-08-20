@@ -119,9 +119,9 @@
   <img width="12" />
   <img src="https://mlflow.org/docs/2.0.0/_static/MLflow-logo-final-black.png" height="40" alt="mlflow logo" title="mlflow" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="40" alt="databricks logo" title="databricks" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="aws logo" title="aws" />
    <img width="12" />
-  <img src="https://www.mongodb.com/community/forums/uploads/default/original/3X/9/c/9cbfd80c82d389fab3a268551033b9480cb62675.jpeg" height="40" alt="sagemaker logo" title="sagemaker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" height="40" alt="azure logo" title="azure" />
 
 </div>
 
