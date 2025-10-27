@@ -80,11 +80,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React and React Native"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="next js logo" title="Next js"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJS"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fast-api logo" title="fastapi"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo" title="django"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
   <img width="12" />
@@ -119,9 +123,13 @@
   <img width="12" />
   <img src="https://mlflow.org/docs/2.0.0/_static/MLflow-logo-final-black.png" height="40" alt="mlflow logo" title="mlflow" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="aws logo" title="aws" />
-   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" height="40" alt="azure logo" title="azure" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Databricks-logo.svg/2560px-Databricks-logo.svg.png" height="40" alt="Databricks logo" title="Databricks" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="aws logo" title="aws" />
+  <img width="20" />
+  <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/ai-ml/machine-learning/approved/images/d646b996-01a8-53de-5267-bfc768ca051a.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" height="40"     alt="sagemaker logo" title="sagmaker" />
 
 </div>
 
