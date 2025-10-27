@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Full-Stack+%26+Backend+Developer;Building+LLM-Powered+Products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Full-Stack+%26+Backend+Developer;Building+LLM-Powered+Products" alt="Typing animation" />
 </br>
   <strong>Turning ideas into scalable, intelligent systems.</strong>
 </div>
