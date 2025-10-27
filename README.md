@@ -90,6 +90,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo" title="django"  />
   <img width="12" />
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wzftzx29zoh1xtlrtdn.png" height="40" alt="flask logo" title="flask"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="sql logo" title="Postgree sql" />
