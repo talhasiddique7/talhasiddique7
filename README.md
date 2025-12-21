@@ -1,3 +1,10 @@
+
+<div align="center">
+  
+  <!-- Premium Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=🚀%20Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
+  
+</div>
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="80%"/>
 </br>
@@ -5,229 +12,378 @@
 </br>
   <strong>Turning ideas into scalable, intelligent systems.</strong>
 </div>
- 
----
 
-## 🙋🏻 About Me
-
-- 🌍 Based in Pakistan — collaborating globally.
-- 🔭 Currently crafting LLM-driven backends & agentic workflows (LangChain / LangGraph).
-- 🚀 Passionate about: Evaluations (RAG quality), Vector search optimization, MLOps pipelines.
-- 💬 Ask me about: Python · FastAPI · Generative AI · LangChain · LangGraph · RAG · Backend Architecture.
-- 🧪 Experimenting with: Structured output parsing, function-calling chains, scalable embeddings stores.
-- 🗣 Languages: English · Urdu · Punjabi
-- 📫 Reach me: talhasiddique.developer@gmail.com
----
-
-## 🌟 Connect With Me :
+<div align="center">
   
-<a href='https://www.linkedin.com/in/talha-siddique-28961b279/'>
-<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width="70" height="70"></a>
-
-<a href='https://discord.gg/QFdtkkcNA2'>
-<img src='https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg' width="70" height="70"></a>
-
-<a href='mailto:talhasiddique.developer@gmail.com'>
-<img src='https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png' width="70" height="70"></a>
-
-<a href='https://leetcode.com/u/talhasiddique7/'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png' width="70" height="70"></a>
-
-<a href='https://www.instagram.com/talha__siddique/profilecard/'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png' width="70" height="70"></a>
-
-<a href='https://web.facebook.com/talha.talhasiddique.5'>
-<img src='https://www.freeiconspng.com/uploads/facebook-png-icon-follow-us-facebook-1.png' width="70" height="70"></a>
-
-<a href='https://api.whatsapp.com/send?phone=923455861630'>
-<img src='https://imgs.search.brave.com/Iu45jx--QtoXb3xq4qlJ1BhrViuwvg00rWxmrVP1hjo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg3/OS5wbmc' width="70" height="70"></a>
-
-<a href='https://talhasiddique-portfolio.vercel.app/'>
-<img src='https://cdn-icons-png.flaticon.com/512/4365/4365945.png' width="70" height="70"></a>
-
-
-
----
-
-
-<h2 align="left">Coding Languages</h2>
-
-###
-
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" title="C#" />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Full Stack Development Frameworks & Tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React and React Native"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="next js logo" title="Next js"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="NodeJS"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="fast-api logo" title="fastapi"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo" title="django"  />
-  <img width="12" />
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6wzftzx29zoh1xtlrtdn.png" height="40" alt="flask logo" title="flask"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB"  />
-  <img width="12" />
-  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="40" alt="sql logo" title="Postgree sql" />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="postman logo" title="postman sql" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/docker.png" height="42" title="Docker" />
-</div>
-
-###
-
-<h2 align="left">AI/ML/DL</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" title="TensorFlow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" title="PyTorch" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="40" alt="numpy logo" title="Numpy" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" title="Seaborn" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" title="Scikit-learn" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" height="40" alt="langchain logo" title="LangChain" />
-  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" height="40" alt="langgraph logo" title="LangGraph" />
-  <img width="12" />
-  <img src="https://mlflow.org/docs/2.0.0/_static/MLflow-logo-final-black.png" height="40" alt="mlflow logo" title="mlflow" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" height="40" alt="azure logo" title="azure" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Databricks-logo.svg/2560px-Databricks-logo.svg.png" height="40" alt="Databricks logo" title="Databricks" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="aws logo" title="aws" />
-  <img width="20" />
-  <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/ai-ml/machine-learning/approved/images/d646b996-01a8-53de-5267-bfc768ca051a.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" height="40"     alt="sagemaker logo" title="sagmaker" />
-
-</div>
-
-###
-
-<h2 align="left">Development Tools</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studio" />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://windsurf.com/favicon.svg" height="40" alt="windsurf logo" title="Windsurf" />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" height="40" alt="cursor logo" title="Cursor-ai" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" title="Anaconda" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="Jupyter Notebook" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40" alt="canva logo" title="Canva" />
-
+  <br/>
+  
+  <!-- Enhanced Profile Badges with Better Styling -->
+  <p>
+    <a href="https://github.com/talhasiddique7">
+      <img src="https://img.shields.io/github/followers/talhasiddique7?label=Followers&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/talhasiddique7">
+      <img src="https://img.shields.io/github/stars/talhasiddique7?label=Total%20Stars&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Stars" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=talhasiddique7&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00D9FF?style=flat-square&labelColor=1a1b27" alt="Focus" />
+  </p>
+  
+  <br/><br/>
+  
+  <!-- Quick Stats Banner -->
+  <img src="https://img.shields.io/badge/💻_Lines_of_Code-500K+-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🎯_Projects_Built-50+-00D9FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🌟_Open_Source-Active-00D9FF?style=for-the-badge&labelColor=1a1b27" />
   
 </div>
 
-<h2 align="left">Productivity Tools </h2>
+<br/>
 
-###
+---
+
+## 🚀 About Me
+
+```python
+class TalhaSiddique:
+    def __init__(self):
+        self.name = "Talha Siddique"
+        self.role = "AI Engineer & Full-Stack Developer"
+        self.location = "Sargodha, Pakistan 🇵🇰"
+        self.education = "BS Computer Science (2025)"
+        self.languages = ["English", "Urdu", "Punjabi"]
+        self.motto = "Building intelligent systems that matter"
+        
+    def current_focus(self):
+        return {
+            "🔨 Building": [
+                "Production-ready RAG systems",
+                "Multi-agent AI workflows",
+                "Scalable LLM backends"
+            ],
+            "📚 Learning": [
+                "Advanced prompt engineering",
+                "Vector database optimization", 
+                "MLOps best practices"
+            ],
+            "🧪 Experimenting": [
+                "LangGraph complex chains",
+                "Function calling patterns",
+                "Streaming LLM responses"
+            ],
+            "⚡ Tech Stack": [
+                "LangChain", "LangGraph", 
+                "FastAPI", "Next.js", "PostgreSQL"
+            ]
+        }
+    
+    def specializations(self):
+        return {
+            "🤖 AI Engineering": [
+                "LLM Application Development",
+                "RAG System Architecture", 
+                "Prompt Engineering"
+            ],
+            "🔗 Backend Development": [
+                "RESTful & GraphQL APIs",
+                "Microservices Design",
+                "Database Optimization"
+            ],
+            "🌐 Full-Stack": [
+                "React/Next.js Applications",
+                "Real-time Systems",
+                "Responsive UI/UX"
+            ],
+            "📊 MLOps": [
+                "Model Deployment",
+                "CI/CD Pipelines",
+                "Performance Monitoring"
+            ]
+        }
+    
+    def get_in_touch(self):
+        return "talhasiddique.developer@gmail.com"
+```
+
+### 💡 What Drives Me
+- 🎯 **Mission**: Building AI solutions that solve real-world problems
+- 🚀 **Vision**: Making advanced AI accessible to everyone
+- 💪 **Approach**: Clean code, scalable architecture, continuous learning
+- 🌟 **Values**: Innovation, collaboration, and open-source contribution
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-notion-10516019-8630396.png" height="40" alt="notion logo" title="Notion" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/microsoft-onenote-2019.png" height="40" alt="onenote logo" title="OneNote" />
-   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Microsoft_To-Do_icon.png" height="40" alt="todo logo" title="microsoft todo" />
-   <img width="12" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/slack-new.png" height="40" alt="slack logo" title="Slack" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/trello.png" height="40" alt="trello logo" title="Trello" />
-  <img width="12" />
-  <img src="https://cdn.prod.website-files.com/627c290f28f6cc6e7e7dc2fc/67e3637e67fdacf09aff99f3_6befc348-4f66-4e4e-9061-78f833445138.png" height="40" alt="clickup logo" title="clickup" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/google-calendar--v2.png" height="40" alt="google calendar logo" title="Google Calendar" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/512/microsoft-teams.png" height="40" alt="microsoft teams logo" title="Microsoft Teams" />
-  <img width="12" />
+  
+  <a href="https://www.linkedin.com/in/talha-siddique-28961b279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://talhasiddique-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio"/>
+  </a>
+  <a href="mailto:talhasiddique.developer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/u/talhasiddique7/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode"/>
+  </a>
+  <a href="https://discord.gg/QFdtkkcNA2">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/talha__siddique/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=923455861630">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
+  </a>
+  
 </div>
 
----
-
-## 🔥 GitHub Stats:
-
-<p align="center">
-  <!-- Total Commits and Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhasiddique7&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=radical" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <!-- Repositories Per Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhasiddique7&theme=radical" alt="Repositories Per Language"/>
-</p>
-
-<p align="center">
-  <!-- Contributions -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhasiddique7&theme=radical" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-  <!-- Stars and Activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
+<br/>
 
 ---
 
+## 💻 Technology Arsenal
 
-### ✨ Fun Fact:
-"I code because I love solving problems and creating solutions that make life easier!"
+<div align="center">
+
+### 🔤 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,sql&theme=dark" alt="Languages" />
+</p>
+
+### 🤖 AI/ML & LLM Ecosystem
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<br>Python
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+<br>TensorFlow
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+<br>PyTorch
+</td>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="50" height="50" alt="LangChain"/>
+<br>LangChain
+</td>
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/354107/numpy.svg" width="50" height="50" alt="NumPy"/>
+<br>NumPy
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+<br>Pandas
+</td>
+<td align="center" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
+<br>Scikit-Learn
+</td>
+</tr>
+</table>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🗄️ Vector Databases & Search
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Weaviate-1C1C1C?style=for-the-badge&logo=weaviate&logoColor=green" alt="Weaviate"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/FAISS-00A8E1?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend" />
+</p>
+
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,graphql&theme=dark" alt="Backend" />
+</p>
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🗃️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,supabase&theme=dark" alt="Databases" />
+</p>
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,vercel,netlify&theme=dark" alt="Cloud" />
+</p>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🛠️ MLOps & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker"/>
+  <img src="https://img.shields.io/badge/🔍_LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith"/>
+</p>
+
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman,figma,linux&theme=dark" alt="Tools" />
+</p>
+
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🎨 Design & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</p>
+
+</div>
+
+<br/>
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=00D9FF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&card_width=450" alt="Top Languages" width="49%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=talhasiddique7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Contribution Stats" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" alt="Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=talhasiddique7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
+
+---
+
+## 📈 Detailed Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasiddique7&custom_title=📊%20Talha's%20Contribution%20Graph%20(Last%2031%20Days)&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💡 Why Work With Me?
+
+✨ **Experience** - 50+ projects across AI, full-stack, and backend development  
+🚀 **Passion** - Genuinely excited about AI and building impactful solutions  
+🎯 **Results-Driven** - Focus on clean code, scalable architecture, and delivery  
+🤝 **Team Player** - Great communication, collaborative, and always learning  
+
+<br/>
+
+### 📧 Get In Touch
+
+**Email:** talhasiddique.developer@gmail.com  
+**Portfolio:** [talhasiddique-portfolio.vercel.app](https://talhasiddique-portfolio.vercel.app/)  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/talha-siddique-28961b279/)  
+
+<br/>
+
+**💬 "Let's build something amazing together!"**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+  ### 🌟 *"Code is poetry written in logic"*
+  
+  <br/>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+explore+my+repositories+🔍;Open+to+collaboration+and+new+opportunities+🤝;Let's+connect+and+build+the+future+together+🚀)
+  
+  <br/>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/talhasiddique7/count.svg)
+  
+  <br/>
+  
+  **⭐️ From [Talha Siddique](https://github.com/talhasiddique7) | Building the Future with AI 🚀**
+  
+  <br/>
+  
+</div>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=150&section=footer&animation=twinkling" width="100%" />
