@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=🚀%20Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
   
 </div>
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="80%"/>
 </br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Full-Stack+%26+Backend+Developer;Building+LLM-Powered+Products" alt="Typing animation" />
 </br>
