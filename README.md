@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Premium Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=🚀%20Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=%20Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
   
 </div>
 </br>
@@ -275,34 +275,21 @@ class TalhaSiddique:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=00D9FF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9&cache_seconds=1800" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&card_width=450" alt="Top Languages" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=talhasiddique7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Contribution Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&cache_seconds=1800" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" width="100%" />
 </div>
-
-<br/>
-
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talhasiddique7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=8&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
 
 ---
 
@@ -311,10 +298,6 @@ class TalhaSiddique:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasiddique7&custom_title=📊%20Talha's%20Contribution%20Graph%20(Last%2031%20Days)&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
-
-<br/>
-
----
 
 <br/>
 
@@ -371,13 +354,7 @@ class TalhaSiddique:
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+explore+my+repositories+🔍;Open+to+collaboration+and+new+opportunities+🤝;Let's+connect+and+build+the+future+together+🚀)
   
-  <br/>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/talhasiddique7/count.svg)
-  
-  <br/>
-  
-  **⭐️ From [Talha Siddique](https://github.com/talhasiddique7) | Building the Future with AI 🚀**
+  **⭐️ From [Talha Siddique](https://github.com/talhasiddique7) | Building the Future with AI**
   
   <br/>
   
