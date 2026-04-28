@@ -29,12 +29,6 @@
   
   <br/><br/>
   
-  <!-- Quick Stats Banner -->
-  <img src="https://img.shields.io/badge/💻_Lines_of_Code-500K+-00D9FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-00D9FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🎯_Projects_Built-50+-00D9FF?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🌟_Open_Source-Active-00D9FF?style=for-the-badge&labelColor=1a1b27" />
-  
 </div>
 
 <br/>
