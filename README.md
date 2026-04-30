@@ -169,7 +169,7 @@ class TalhaSiddique:
 <br>LangChain
 </td>
 <td align="center" width="100">
-<img src="https://www.svgrepo.com/show/354107/numpy.svg" width="50" height="50" alt="NumPy"/>
+<img src="https://media.licdn.com/dms/image/v2/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=iZKe_LBwW0NSHcz1V9_LsKskeje_BYusBCoctWYnWJ0" width="50" height="50" alt="NumPy"/>
 <br>NumPy
 </td>
 <td align="center" width="100">
