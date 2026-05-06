@@ -2,11 +2,11 @@
 <div align="center">
   
   <!-- Premium Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=%20Transforming%20Ideas%20into%20Intelligent%20AI%20Solutions&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=00D9FF" alt="Header" />
   
 </div>
 </br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Full-Stack+%26+Backend+Developer;Building+LLM-Powered+Products" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agent+Engineer" alt="Typing SVG" />
 </br>
   <strong>Turning ideas into scalable, intelligent systems.</strong>
 </div>
@@ -169,7 +169,7 @@ class TalhaSiddique:
 <br>LangChain
 </td>
 <td align="center" width="100">
-<img src="https://media.licdn.com/dms/image/v2/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=iZKe_LBwW0NSHcz1V9_LsKskeje_BYusBCoctWYnWJ0" width="50" height="50" alt="NumPy"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50" height="50" alt="NumPy"/>
 <br>NumPy
 </td>
 <td align="center" width="100">
@@ -260,6 +260,17 @@ class TalhaSiddique:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
+### 🌍 Open Source Contributions
+<p>
+  <a href="https://gitlab.gnome.org/">
+    <img src="https://img.shields.io/badge/GNOME-4A90E2?style=for-the-badge&logoColor=white" alt="GNOME"/>
+  </a>
+  <a href="https://github.com/johnfactotum/foliate">
+    <img src="https://img.shields.io/badge/Foliate-2E8B57?style=for-the-badge&logoColor=white" alt="Foliate"/>
+  </a>
+  <img src="https://img.shields.io/badge/🐧_Linux_Community-FCC624?style=for-the-badge&logoColor=black" alt="Linux Community"/>
+</p>
+
 </div>
 
 <br/>
@@ -269,20 +280,20 @@ class TalhaSiddique:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
 
 ---
@@ -290,7 +301,7 @@ class TalhaSiddique:
 ## 📈 Detailed Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasiddique7&custom_title=📊%20Talha's%20Contribution%20Graph%20(Last%2031%20Days)&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&title_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasiddique7&custom_title=📊%20Talha's%20Contribution%20Graph%20(Last%2031%20Days)&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -346,7 +357,7 @@ class TalhaSiddique:
   
   <br/>
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+explore+my+repositories+🔍;Open+to+collaboration+and+new+opportunities+🤝;Let's+connect+and+build+the+future+together+🚀)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+⭐;Feel+free+to+connect+and+collaborate!+🚀" alt="Footer Typing" />
   
   **⭐️ From [Talha Siddique](https://github.com/talhasiddique7) | Building the Future with AI**
   
@@ -355,4 +366,4 @@ class TalhaSiddique:
 </div>
 
 <!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=150&section=footer&animation=twinkling" width="100%" alt="Footer" />
