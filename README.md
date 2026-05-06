@@ -280,18 +280,15 @@ class TalhaSiddique:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhasiddique7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+
   <img src="https://streak-stats.demolab.com?user=talhasiddique7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhasiddique7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhasiddique7&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
