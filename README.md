@@ -35,80 +35,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```python
-class TalhaSiddique:
-    def __init__(self):
-        self.name = "Talha Siddique"
-        self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Sargodha, Pakistan 🇵🇰"
-        self.education = "BS Computer Science (2025)"
-        self.languages = ["English", "Urdu", "Punjabi"]
-        self.motto = "Building intelligent systems that matter"
-        
-    def current_focus(self):
-        return {
-            "🔨 Building": [
-                "Production-ready RAG systems",
-                "Multi-agent AI workflows",
-                "Scalable LLM backends"
-            ],
-            "📚 Learning": [
-                "Advanced prompt engineering",
-                "Vector database optimization", 
-                "MLOps best practices"
-            ],
-            "🧪 Experimenting": [
-                "LangGraph complex chains",
-                "Function calling patterns",
-                "Streaming LLM responses"
-            ],
-            "⚡ Tech Stack": [
-                "LangChain", "LangGraph", 
-                "FastAPI", "Next.js", "PostgreSQL"
-            ]
-        }
-    
-    def specializations(self):
-        return {
-            "🤖 AI Engineering": [
-                "LLM Application Development",
-                "RAG System Architecture", 
-                "Prompt Engineering"
-            ],
-            "🔗 Backend Development": [
-                "RESTful & GraphQL APIs",
-                "Microservices Design",
-                "Database Optimization"
-            ],
-            "🌐 Full-Stack": [
-                "React/Next.js Applications",
-                "Real-time Systems",
-                "Responsive UI/UX"
-            ],
-            "📊 MLOps": [
-                "Model Deployment",
-                "CI/CD Pipelines",
-                "Performance Monitoring"
-            ]
-        }
-    
-    def get_in_touch(self):
-        return "talhasiddique.developer@gmail.com"
-```
+<p>I'm <strong>Talha Siddique</strong>, an <strong>AI Engineer and Full-Stack Developer</strong> from Punjab, Pakistan 🇵🇰, with <strong>2.5+ years of experience</strong> building intelligent, scalable, and production-ready software. I hold a <strong>BS in Computer Science (2025)</strong> and specialize in <strong>Generative AI, machine learning, transformer-based model training and fine-tuning, backend engineering, and full-stack development</strong>.</p>
 
-### 💡 What Drives Me
-- 🎯 **Mission**: Building AI solutions that solve real-world problems
-- 🚀 **Vision**: Making advanced AI accessible to everyone
-- 💪 **Approach**: Clean code, scalable architecture, continuous learning
-- 🌟 **Values**: Innovation, collaboration, and open-source contribution
+<p>My current focus is on building <strong>production-ready RAG systems, multi-agent AI workflows, scalable LLM backends, and intelligent applications</strong>. My core stack includes <strong>Python, FastAPI, Django, Node.js, LangChain, LangGraph, Next.js, PostgreSQL, cloud platforms, and modern JavaScript frameworks</strong>. I also work with <strong>advanced prompt engineering, vector database optimization, MLOps, complex agent workflows, function calling, and streaming LLM responses</strong>.</p>
+
+<p>I specialize in <strong>AI engineering, backend development, full-stack development, and MLOps</strong>. I build everything from <strong>RAG systems, AI agents, and fine-tuned language models</strong> to scalable APIs, microservices, database-driven applications, real-time systems, responsive web and mobile applications, data pipelines, model deployment infrastructure, CI/CD pipelines, and performance monitoring systems.</p>
+
+<p>My goal is simple: <strong>build intelligent systems that matter</strong>—solutions that are technically strong, reliable, scalable, and useful in real-world environments. I'm open to <strong>AI/ML engineering roles, full-stack development opportunities, freelance projects, and collaborations</strong> on ambitious AI-powered products.</p>
+
+<p>You can reach me at <strong>talhasiddique.developer@gmail.com</strong>.</p>
+
+### What Drives Me
+-  **Mission**: Building AI solutions that solve real-world problems
+-  **Vision**: Making advanced AI accessible to everyone
+-  **Approach**: Clean code, scalable architecture, continuous learning
+-  **Values**: Innovation, collaboration, and open-source contribution
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -140,16 +89,16 @@ class TalhaSiddique:
 
 ---
 
-## 💻 Technology Arsenal
+##  Technology Arsenal
 
 <div align="center">
 
-### 🔤 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,html,css,sql&theme=dark" alt="Languages" />
 </p>
 
-### 🤖 AI/ML & LLM Ecosystem
+###  AI/ML & LLM Ecosystem
 <table>
 <tr>
 <td align="center" width="100">
@@ -190,7 +139,7 @@ class TalhaSiddique:
 ![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 🗄️ Vector Databases & Search
+###  Vector Databases & Search
 <p>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
   <img src="https://img.shields.io/badge/Weaviate-1C1C1C?style=for-the-badge&logo=weaviate&logoColor=green" alt="Weaviate"/>
@@ -199,7 +148,7 @@ class TalhaSiddique:
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
 </p>
 
-### 🌐 Frontend Development
+###  Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend" />
 </p>
@@ -208,7 +157,7 @@ class TalhaSiddique:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,graphql&theme=dark" alt="Backend" />
 </p>
@@ -216,14 +165,14 @@ class TalhaSiddique:
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🗃️ Databases & Caching
+###  Databases & Caching
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,supabase&theme=dark" alt="Databases" />
 </p>
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,vercel,netlify&theme=dark" alt="Cloud" />
 </p>
@@ -231,7 +180,7 @@ class TalhaSiddique:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🛠️ MLOps & Monitoring
+###  MLOps & Monitoring
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
@@ -241,7 +190,7 @@ class TalhaSiddique:
   <img src="https://img.shields.io/badge/🔍_LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith"/>
 </p>
 
-### 🔧 Development Tools
+###  Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,postman,figma,linux&theme=dark" alt="Tools" />
 </p>
@@ -249,7 +198,7 @@ class TalhaSiddique:
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🎨 Design & Collaboration
+###  Design & Collaboration
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -260,7 +209,7 @@ class TalhaSiddique:
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
-### 🌍 Open Source Contributions
+###  Open Source Contributions
 <p>
   <a href="https://gitlab.gnome.org/">
     <img src="https://img.shields.io/badge/GNOME-4A90E2?style=for-the-badge&logoColor=white" alt="GNOME"/>
@@ -277,7 +226,7 @@ class TalhaSiddique:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -295,7 +244,7 @@ class TalhaSiddique:
 
 ---
 
-## 📈 Detailed Contribution Activity
+##  Detailed Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhasiddique7&custom_title=📊%20Talha's%20Contribution%20Graph%20(Last%2031%20Days)&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
@@ -305,7 +254,7 @@ class TalhaSiddique:
 
 ---
 
-## 💭 Random Dev Quote
+##  Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
