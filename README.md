@@ -1,40 +1,3 @@
-
-<div align="center">
-  
-  <!-- Premium Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,5&height=280&section=header&text=TALHA%20SIDDIQUE&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=00D9FF" alt="Header" />
-  
-</div>
-</br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agent+Engineer" alt="Typing SVG" />
-</br>
-  <strong>Turning ideas into scalable, intelligent systems.</strong>
-</div>
-
-<div align="center">
-  
-  <br/>
-  
-  <!-- Enhanced Profile Badges with Better Styling -->
-  <p>
-    <a href="https://github.com/talhasiddique7">
-      <img src="https://img.shields.io/github/followers/talhasiddique7?label=Followers&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/talhasiddique7">
-      <img src="https://img.shields.io/github/stars/talhasiddique7?label=Total%20Stars&style=flat-square&color=00D9FF&labelColor=1a1b27" alt="GitHub Stars" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=talhasiddique7&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Focus-AI%20Engineering-00D9FF?style=flat-square&labelColor=1a1b27" alt="Focus" />
-  </p>
-  
-  <br/><br/>
-  
-</div>
-
-<br/>
-
----
-
 ## About Me
 
 <p>I'm <strong>Talha Siddique</strong>, an <strong>AI Engineer and Full-Stack Developer</strong> from Punjab, Pakistan 🇵🇰, with <strong>2.5+ years of experience</strong> building intelligent, scalable, and production-ready software. I hold a <strong>BS in Computer Science (2025)</strong> and specialize in <strong>Generative AI, machine learning, transformer-based model training and fine-tuning, backend engineering, and full-stack development</strong>.</p>
@@ -54,8 +17,9 @@
 -  **Values**: Innovation, collaboration, and open-source contribution
 
 <br clear="right"/>
-
----
+</br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Talha!;CS+Graduate+2k25;AI+Engineer+%7C+Generative+AI+%7C+Agent+Engineer" alt="Typing SVG" />
+</br>
 
 ## Connect With Me
 
